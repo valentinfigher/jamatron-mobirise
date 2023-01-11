@@ -146,6 +146,8 @@ section .mbr-background-video-preview {
 }
 
 /*! Font-weight  */
+
+
 .mbr-light {
   font-weight: 300;
 }
@@ -210,6 +212,7 @@ iframe {
   display: block;
   width: 100%;
 }
+
 
 .card {
   background-color: transparent;
